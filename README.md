@@ -36,7 +36,6 @@ Here are some example conversions:
 - "hai mươi tư" → 24
 - "không trăm linh năm" → 5
 - "một tỷ hai trăm triệu" → 1200000000
-- "hai mươi tư" → 24
 - "một tỷ tỷ" → 1000000000000000000
 
 ## Supported Number Words
